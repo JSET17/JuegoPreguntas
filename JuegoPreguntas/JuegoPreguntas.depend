@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721930917 source:c:\jset\github\organizations\university\juegopreguntas\juegopreguntas\main.c
+	<stdio.h>
+	<stdlib.h>
+
